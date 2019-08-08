@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4c9fd12-d18f-469b-94bd-36d36054e3c4" name="Default Changelist" comment="" />
+    <list default="true" id="c4c9fd12-d18f-469b-94bd-36d36054e3c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SpeechRecognition/.idea/SpeechRecognition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeechRecognition/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeechRecognition/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeechRecognition/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeechRecognition/venv/Include/SpeechRec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeechRecognition/venv/Include/SpeechRecAudio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,17 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/Include/StudentData.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="174" column="14" lean-forward="true" selection-start-line="174" selection-start-column="14" selection-end-line="174" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,6 +31,9 @@
     <findStrings>
       <find>ist</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -47,11 +49,13 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -74,10 +78,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.project" />
   </component>
   <component name="RunDashboard">
@@ -92,7 +96,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.StudentData (1)">
+  <component name="RunManager" selected="Python.StudentData">
     <configuration name="StudentData (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="StudentRegistry" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,8 +141,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.StudentData (1)" />
         <item itemvalue="Python.StudentData" />
+        <item itemvalue="Python.StudentData (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -185,8 +189,8 @@
     <entry file="file://$PROJECT_DIR$/StudentData.py" />
     <entry file="file://$PROJECT_DIR$/venv/Include/StudentData.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="174" column="14" lean-forward="true" selection-start-line="174" selection-start-column="14" selection-end-line="174" selection-end-column="55" />
+        <state relative-caret-position="376">
+          <caret line="176" column="14" selection-start-line="176" selection-start-column="14" selection-end-line="176" selection-end-column="50" />
         </state>
       </provider>
     </entry>
